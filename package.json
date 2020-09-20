@@ -1,0 +1,27 @@
+{
+  "name": "discordsb",
+  "version": "1.1.0",
+  "description": "a Module For Creating Discord Self Bots",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "discord.js": "^11.5.1"
+  },
+  "keywords": [
+    "discord",
+    "Discord",
+    "SelfBot",
+    "self",
+    "bot",
+    "discord",
+    "self",
+    "bot",
+    "discordselfbot",
+    "discordsb"
+  ],
+  "author": "EhsanFox <ehsan8184@gmail.com> (http://ehsang.ir/)",
+  "license": "ISC"
+}
