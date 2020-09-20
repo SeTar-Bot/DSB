@@ -1,5 +1,11 @@
 /*
      *
+     * I don't take any responsibility for blocked Discord accounts that used this module.
+     * Using this is prohibited by the Discord TOS and can lead to the account block.
+     *
+     *
+     * ------------- *
+     *
      * Editing this Package Means
      * Breaking the Rules of Package and Package License
      * 
