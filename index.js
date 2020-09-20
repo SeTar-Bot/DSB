@@ -38,7 +38,7 @@
      * 
      * ------------- *
      * 
-     * Github Repo: SeTar-Bot/DSB-Package
+     * Github Repo: SeTar-Bot/DSB
      * Author Website: http://EhsanG.ir/
      * 
      */
