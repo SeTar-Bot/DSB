@@ -1,8 +1,12 @@
 {
   "name": "discordsb",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "description": "a Module For Creating Discord Self Bots",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SeTar-Bot/DSB.git"
+  },
   "scripts": {
     "test": "node test.js"
   },
@@ -18,7 +22,7 @@
     "bot",
     "discord",
     "self",
-    "dsb",
+    "bot",
     "discordselfbot",
     "discordsb"
   ],
