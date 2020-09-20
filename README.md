@@ -8,7 +8,7 @@ A perfect module for having your own selfbot on discord platform without coding 
 
 ### Commands
 
-Discord SB Have it own commands that gonna be listed in here
+Discord SB Have it own commands that gonna be listed in here (There will be updates for new commands!)
 
 * Ping - See Your Bot's ping and latency
 * Eval - Eval your NodeJS Code
